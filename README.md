@@ -1,12 +1,12 @@
 강아지 분석 프로젝트
 ================
 강아지를 분석하는 프로젝트 입니다
--------------------------
+
 
 Quickstart
 ==========
 다음과 같이 설치합니다
------------------
+
 <pre>
 <code>
 pip install dog_project
@@ -25,7 +25,7 @@ print('강아지는 너무 귀여워요!!!')
 
 ## Reference
 
-*푸들 : <https://www.youtube.com/watch?v=3sysIjGyxXE>
+[푸들](https://www.youtube.com/watch?v=3sysIjGyxXE)
 
 
 ## Issue
