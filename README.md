@@ -28,7 +28,7 @@ print('강아지는 너무 귀여워요!!!')
 [푸들](https://www.youtube.com/watch?v=3sysIjGyxXE)
 
 
-## Issue
+## Issue  
 - Issue 1
   - Issue 1-1
     - Issue 1-1-1
